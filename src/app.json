@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/news/main",
+    "pages/news/detail/main",
+    "pages/news/hotComment/main",
+    "pages/news/replyComment/main",
+    "pages/match/main",
+    "pages/match/detail/main",
+    "pages/match/data/main",
+    "pages/clubTest/main",
+    "pages/login/main",
+    "pages/betGroup/main",
+    "pages/webView/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "score",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#656973",
+    "selectedColor": "#0D8DFC",
+    "list": [{
+      "pagePath": "pages/news/main",
+      "text": "资讯",
+      "iconPath": "static/images/news.png",
+      "selectedIconPath": "static/images/news_active.png"
+    }, {
+      "pagePath": "pages/match/main",
+      "text": "看比赛",
+      "iconPath": "static/images/match.png",
+      "selectedIconPath": "static/images/match_active.png"
+    }]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}
