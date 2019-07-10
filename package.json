@@ -2,7 +2,7 @@
   "name": "wx-demo",
   "version": "1.0.0",
   "description": "A Mpvue project",
-  "author": "caotao <caotao@git.com>",
+  "author": "zhubinchao <370080061@qq.com> https://github.com/kenzbc/mpvue",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
