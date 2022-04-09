@@ -14,7 +14,7 @@
     "flyio": "^0.6.1",
     "js-md5": "^0.7.3",
     "mini-circleprogress": "^1.0.2",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "mpvue": "^1.0.13",
     "mpvue-router-patch": "^0.2.1",
     "mpvue-wxparse": "^0.6.5",
